@@ -6,9 +6,7 @@ Slurm is a plugin for Koken that replaces the boring auto-generated slugs with m
 Background
 ----------
 
-After deciding to leave Flickr and host my photos by myself, I settled on [Koken](http://koken.me/) as the CMS best suited to the task.
-
-The problem is that Koken enforces a strict type of URL slug, one generated based on the title of the photo or, if that isn't available, the file name. I wanted quasi-random looking numeric slugs, similar to what I had on Flickr.
+After deciding to leave Flickr and host my photos by myself, I settled on [Koken](http://koken.me/) as the CMS best suited to the task. The problem is that Koken enforces a strict type of URL slug, one generated based on the title of the photo or, if that isn't available, the file name. I wanted quasi-random looking numeric slugs, similar to what I had on Flickr.
 
 Caveat
 ------
