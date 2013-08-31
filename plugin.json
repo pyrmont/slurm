@@ -1,0 +1,9 @@
+{ 
+  "name": "Slurm",
+  "version": "0.1",
+  "description": "Overwrites the auto-generated slug with a pseudorandom integer.",
+  "author": {
+    "name": "Michael Camilleri",
+    "link": "http://inqk.net/"
+  }
+}
