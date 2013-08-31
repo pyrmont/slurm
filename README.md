@@ -25,7 +25,7 @@ In the ```storage/plugins/``` directory, do the following:
 git clone https://github.com/pyrmont/slurm.git inqk-slurm
 ```
 
-Then open ```app/site/site.php``` in your favourite text editor and replace the ```$pattern``` assignments as indicated:
+Then open ```app/site/site.php``` in your favourite text editor, go to line 500 and replace the ```$pattern``` assignments as indicated:
 
 ```php
 if (@PCRE_VERSION !== 'PCRE_VERSION' && version_compare(PCRE_VERSION, '5.0.0') >= 0)
