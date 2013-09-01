@@ -1,4 +1,4 @@
-Slurm
+Slurm [![Build Status](https://travis-ci.org/pyrmont/slurm.png?branch=master)](https://travis-ci.org/pyrmont/slurm)
 =====
 
 Slurm is a plugin for Koken that replaces the boring auto-generated slugs with magical numeric slugs.
@@ -41,6 +41,11 @@ else
 In the admin section of your Koken site, navigate to _Settings_ and then choose _Plugins_. Activate the plugin and you're away.
 
 Slurm works by overwriting the slug whenever a photo is added to the library or updated. To change the slugs for existing photos, update the metadata of the photo (such as by changing the caption).
+
+Tests
+-----
+
+Run the tests with `phpunit tests`. You'll first need to follow the [PHPUnit installation instructions](http://phpunit.de/manual/3.7/en/installation.html).
 
 Licence
 -------
