@@ -42,6 +42,11 @@ In the admin section of your Koken site, navigate to _Settings_ and then choose 
 
 Slurm works by overwriting the slug whenever a photo is added to the library or updated. To change the slugs for existing photos, update the metadata of the photo (such as by changing the caption).
 
+Tests
+-----
+
+Run the tests with `phpunit tests`. You'll first need to follow the [PHPUnit installation instructions](http://phpunit.de/manual/3.7/en/installation.html).
+
 Licence
 -------
 
