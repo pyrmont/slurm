@@ -1,4 +1,4 @@
-Slurm
+Slurm [![Build Status](https://travis-ci.org/pyrmont/slurm.png?branch=master)](https://travis-ci.org/pyrmont/slurm)
 =====
 
 Slurm is a plugin for Koken that replaces the boring auto-generated slugs with magical numeric slugs.
